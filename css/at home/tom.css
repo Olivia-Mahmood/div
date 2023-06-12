@@ -1,0 +1,22 @@
+body {
+    background-image: url('img/Tom_Cat_2.webp');
+    background-color: blueviolet;
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+
+}
+
+p {
+    margin: 30px;
+    border: 1px solid white;
+    width: 40%;
+    padding: 20px;
+    color: white;
+    border-radius: 15px;
+}
+
+h1 {
+    color: white;
+}
